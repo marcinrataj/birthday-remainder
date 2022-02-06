@@ -1,5 +1,6 @@
 ## INFO
-
+https://marcin-r-birthday-remainder.web.app/
+##
 Application made in react which shows 5 people
 which have a birthday and the button with which to clear the list
 ##
